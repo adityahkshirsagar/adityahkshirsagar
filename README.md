@@ -21,6 +21,7 @@
 
 ### 🔹 Automation & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat)
 ![RestAssured](https://img.shields.io/badge/Rest%20Assured-2E8B57?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
@@ -46,7 +47,7 @@
 🔹 **selenium-ui-framework** – Java + Selenium + POM + CI  
 🔹 **appium-mobile-framework** – Android automation from scratch  
 🔹 **restassured-api-framework** – API automation with reporting  
-🔹 **playwright_ai** – Agentic AI–based Playwright framework for intelligent test execution and failure analysis
+🔹 **playwright_ai** – Agentic AI–based Playwright framework for intelligent test execution and failure analysis  
 🔹 **dockerized-test-pipeline** – Jenkins + Docker CI/CD  
 
 
