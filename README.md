@@ -13,9 +13,7 @@
 - 🤖 Using **AI-assisted tools** (Copilot, GPT, Cursor) to boost automation productivity
 - 📈 Passionate about scalable test frameworks and engineering-driven QA
 
-📄 **Resume:** https://drive.google.com/file/d/1A7lNHQPDSqOZE2CiWDAoiG65QHJN8NPD/view?usp=drive_link  
-💼 **LinkedIn:** https://www.linkedin.com/in/aditya-kshirsagar-088152167/ 
-🐙 **GitHub:** https://github.com/adityahkshirsagar  
+- 📄 View my [Resume](https://drive.google.com/file/d/1A7lNHQPDSqOZE2CiWDAoiG65QHJN8NPD/view?usp=drive_link)
 
 ---
 
