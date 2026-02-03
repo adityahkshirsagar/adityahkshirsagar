@@ -48,8 +48,7 @@
 🔹 **selenium-ui-framework** – Java + Selenium + POM + CI  
 🔹 **appium-mobile-framework** – Android automation from scratch  
 🔹 **restassured-api-framework** – API automation with reporting  
-🔹 **playwright_ai** – Agentic AI–based Playwright framework for intelligent test execution and failure analysis  
-🔹 **dockerized-test-pipeline** – Jenkins + Docker CI/CD  
+🔹 **playwright_ai** – Agentic AI–based Playwright framework for intelligent test execution and failure analysis
 
 
 ---
