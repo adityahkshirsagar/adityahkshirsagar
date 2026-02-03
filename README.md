@@ -13,7 +13,7 @@
 - 🤖 Using **AI-assisted tools** (Copilot, GPT, Cursor) to boost automation productivity
 - 📈 Passionate about scalable test frameworks and engineering-driven QA
 
-- 📄 View my [Resume](https://drive.google.com/file/d/1A7lNHQPDSqOZE2CiWDAoiG65QHJN8NPD/view?usp=drive_link)
+- 📄 View my [Resume](https://drive.google.com/file/d/1cKNFdF6oKC8CAfj8RGONO2-AO456eDfB/view?usp=drive_link)
 
 ---
 
