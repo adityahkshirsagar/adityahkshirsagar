@@ -8,7 +8,7 @@
 - 🧪 Senior **Software Development Engineer in Test (SDET)** with 6+ years of experience
 - 🌍 Specialized in **Web, Mobile, API & Backend Automation**
 - 🏦 Strong domain expertise in **Banking & Fintech**
-- ⚙️ Daily stack: **Java, Selenium, Appium, Rest Assured, CI/CD**
+- ⚙️ Daily stack: **Java, Selenium, Appium, Rest Assured**
 - 🚀 CI/CD with **Jenkins, GitHub & Docker**
 - 🤖 Using **AI-assisted tools** (Copilot, GPT, Cursor) to boost automation productivity
 - 📈 Passionate about scalable test frameworks and engineering-driven QA
