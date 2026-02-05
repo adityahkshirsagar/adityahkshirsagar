@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditya Kshirsagar 👋</h1>
+<h1 align="center">Hi, I'm Aditya 👋</h1>
 <h3 align="center">Senior SDET / QA Automation Engineer | AI-Enabled Test Automation </h3>
 
 ---
