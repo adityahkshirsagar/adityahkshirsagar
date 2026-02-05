@@ -25,17 +25,14 @@
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat)
 ![RestAssured](https://img.shields.io/badge/Rest%20Assured-2E8B57?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-
 ### 🔹 Programming & Build
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
-
 ### 🔹 CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 ### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
