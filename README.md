@@ -13,8 +13,6 @@
 - 🤖 Building **AI-enabled and agentic testing frameworks** with intelligent agents support.
 - 🧠 Exploring **LLM-powered QA workflows** to evolve test design, maintenance, and root-cause analysis
 - 📈 Passionate about scalable automation architectures and engineering-driven quality.
-- 📄 View my [Resume](https://drive.google.com/file/d/1A7lNHQPDSqOZE2CiWDAoiG65QHJN8NPD/view?usp=sharing)
-
 ---
 
 ## 🧰 Tech Stack
