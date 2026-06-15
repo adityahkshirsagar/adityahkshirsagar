@@ -5,14 +5,14 @@
 
 ## 👨‍💻 About Me
 
-- 🧪 Senior **Software Development Engineer in Test (SDET)** with 6+ years of experience
-- 🌍 Specialized in **Web, Mobile, API & Backend Automation**
-- 🏦 Strong domain expertise in **Banking & Fintech**
-- ⚙️ Daily stack: **Java, Selenium, Appium, Rest Assured, Playwright**
-- 🚀 CI/CD with **Jenkins, GitHub & Docker**
+- Senior **Software Development Engineer in Test (SDET)** with 6+ years of experience
+- Specialized in **Web, Mobile, API & Backend Automation**
+- Strong domain expertise in **Banking & Fintech**
+- Daily stack: **Java, Selenium, Appium, Rest Assured, Playwright**
+- CI/CD with **Jenkins, GitHub & Docker**
 - Building **AI-enabled and agentic testing frameworks** with intelligent agents support.
-- 🧠 Exploring **LLM-powered QA workflows** to evolve test design, maintenance, and root-cause analysis
-- 📈 Passionate about scalable automation architectures and engineering-driven quality.
+- Exploring **LLM-powered QA workflows** to evolve test design, maintenance, and root-cause analysis
+- Passionate about scalable automation architectures and engineering-driven quality.
 ---
 
 ## 🧰 Tech Stack
