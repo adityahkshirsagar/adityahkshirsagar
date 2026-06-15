@@ -10,7 +10,7 @@
 - 🏦 Strong domain expertise in **Banking & Fintech**
 - ⚙️ Daily stack: **Java, Selenium, Appium, Rest Assured, Playwright**
 - 🚀 CI/CD with **Jenkins, GitHub & Docker**
-- 🤖 Building **AI-enabled and agentic testing frameworks** with intelligent agents support.
+- Building **AI-enabled and agentic testing frameworks** with intelligent agents support.
 - 🧠 Exploring **LLM-powered QA workflows** to evolve test design, maintenance, and root-cause analysis
 - 📈 Passionate about scalable automation architectures and engineering-driven quality.
 ---
@@ -49,7 +49,7 @@
 
 ## 🌍 What I'm Looking For
 
-🤖 Opportunities to work in **AI-driven quality engineering**, building on hands-on experience with **Agentic AI–based automation frameworks (playwright_ai)** to explore how intelligent systems can transform software testing and delivery.
+Opportunities to work in **AI-driven quality engineering**, building on hands-on experience with **Agentic AI–based automation frameworks (playwright_ai)** to explore how intelligent systems can transform software testing and delivery.
 
 
 ---
